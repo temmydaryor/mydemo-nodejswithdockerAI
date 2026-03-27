@@ -1,2 +1,0 @@
-# mydemo-nodejswithdockerAI
-mydemo-nodejswithdockerAI
